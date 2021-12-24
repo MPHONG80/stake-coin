@@ -1,0 +1,2 @@
+# stake-coin
+Stake coin
